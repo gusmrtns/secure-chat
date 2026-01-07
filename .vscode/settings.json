@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./secure-chat/crypto"
+    ]
+}
